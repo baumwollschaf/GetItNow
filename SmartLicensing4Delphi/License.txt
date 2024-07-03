@@ -1,0 +1,41 @@
+End User License Agreement (EULA)
+
+IMPORTANT NOTICE: Please read this End User License Agreement ("EULA") carefully before you install or use the Software. By installing or using the Software, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, you may not install or use the Software.
+
+1. Grant of License:
+
+The Licensor grants you, the End User, a non-exclusive, non-transferable license to use the Software on the licensed device, as described in this EULA.
+
+2. Restrictions on Use:
+
+You may not copy, reproduce, distribute, decompile, reverse engineer, modify, or otherwise create derivative works of the Software, except as expressly permitted by this EULA. You may not use the Software on more than one device at the same time, unless expressly permitted by this EULA. You may not rent, lease, or otherwise sublicense the Software to any third party.
+
+3. Intellectual Property:
+
+The Software and all accompanying copyrights, patents, trademarks, and other intellectual property rights are and shall remain the sole property of the Licensor.
+
+4. Limitation of Liability:
+
+IN NO EVENT SHALL THE LICENSOR OR ITS EMPLOYEES OR AGENTS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, OR OTHER PECUNIARY LOSS ARISING OUT OF OR IN CONNECTION WITH THE USE OR THE INABILITY TO USE THE SOFTWARE, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. Term and Termination:
+
+This EULA shall remain in effect until terminated by either party. You may terminate this EULA at any time by uninstalling the Software and destroying all copies of the Software. The Licensor may terminate this EULA at any time if you breach any of the terms of this EULA.
+
+6. General:
+
+This EULA shall be governed by and construed in accordance with the laws of the Federal Republic of Germany. Any disputes arising out of this EULA shall be exclusively resolved in the courts of the Federal Republic of Germany.
+
+7. Severability:
+
+If any provision of this EULA is held to be invalid or unenforceable, such provision shall be struck from this EULA and the remaining provisions shall remain in full force and effect.
+
+8. Entire Agreement:
+
+This EULA constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
+
+9. Amendments:
+
+This EULA may be amended by the Licensor at any time by updating this EULA on its website. Your continued use of the Software after such an update shall constitute your acceptance of the amended terms of this EULA.
+
+Please confirm that you have read and understood the foregoing terms of the EULA and that you agree to them by clicking on the "I Agree" button. You may not install or use the Software if you do not agree to the terms of this EULA.
